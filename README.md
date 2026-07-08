@@ -12,10 +12,10 @@ Cloud providers document their services individually, but rarely map them side-b
 
 | Document | Description |
 |---|---|
-| [Shared Responsibility Model](docs/01-shared-responsibility-model.md) | What the cloud provider secures vs. what the customer secures, across IaaS, PaaS, and SaaS |
-| [CIA Triad Mapping](docs/02-cia-triad-mapping.md) | Confidentiality, Integrity, Availability mapped to specific AWS/GCP/Azure services |
-| [Security Audit Checklist](docs/03-security-checklist.md) | A practical checklist for auditing IAM, storage, and network configs |
-| [Multi-Cloud Security Comparison](docs/04-multi-cloud-comparison.md) | AWS vs GCP vs Azure — equivalent security services side-by-side |
+| [Shared Responsibility Model](01-shared-responsibility-model.md) | What the cloud provider secures vs. what the customer secures, across IaaS, PaaS, and SaaS |
+| [CIA Triad Mapping](02-cia-triad-mapping.md) | Confidentiality, Integrity, Availability mapped to specific AWS/GCP/Azure services |
+| [Security Audit Checklist](03-security-checklist.md) | A practical checklist for auditing IAM, storage, and network configs |
+| [Multi-Cloud Security Comparison](04-multi-cloud-comparison.md) | AWS vs GCP vs Azure — equivalent security services side-by-side |
 
 ## Skills demonstrated
 
